@@ -1,0 +1,13 @@
+city,zone,date,visitor_count,temperature,is_holiday
+Jaipur,Zone 1,2025-01-01,1200,20,True
+Goa,Zone 1,2025-01-01,2500,28,True
+Shimla,Zone 1,2025-01-01,800,5,True
+Jaipur,Zone 2,2025-01-01,950,21,False
+Goa,Zone 2,2025-01-01,2100,29,False
+Shimla,Zone 2,2025-01-01,600,6,False
+Jaipur,Zone 1,2025-02-01,1350,22,False
+Goa,Zone 1,2025-02-01,2200,30,False
+Shimla,Zone 1,2025-02-01,950,8,False
+Jaipur,Zone 2,2025-02-01,1100,23,False
+Goa,Zone 2,2025-02-01,1800,31,False
+Shimla,Zone 2,2025-02-01,750,9,False
